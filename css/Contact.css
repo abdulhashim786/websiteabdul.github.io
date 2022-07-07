@@ -1,0 +1,30 @@
+body{
+   margin: 0px;
+   padding: 0px;
+    background-color: #CFD2CF;
+}
+.containar{
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    height: 500px;
+    margin: 70px auto;
+    text-align: center;
+    font-weight: 800;
+    
+}
+button{
+    margin-top: 20px;
+    height: 30px;
+    width: 70px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:#C4D7E0;
+}
+
+input{
+    width: 200px;
+    height: 25px;
+    margin-bottom: 10px ;
+}
